@@ -1,5 +1,5 @@
-def result(a, b):
-    a = 1
-    b = 1
+def plus():
+    return (1 + 1)
 
-    print(sum(a + b))
+def minus():
+    return (2 - 1)
